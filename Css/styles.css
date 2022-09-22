@@ -142,7 +142,12 @@ h2{
   .btn{ width: 80%;
         height: 200px;
   }
-
+h3{
+  font-size: 2rem;
+}
+p{
+  font-size: 3rem;
+}
 
 /* kdp explaoin */
 
