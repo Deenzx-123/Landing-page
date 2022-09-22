@@ -137,8 +137,12 @@ h2{
     margin-bottom: 6%;
 }
 .p_header{
-  font-size: 3rem;
-}
+  font-size: 3rem}
+
+  .btn{ width: 50%;
+        height: 60px;
+  }
+
 
 /* kdp explaoin */
 
