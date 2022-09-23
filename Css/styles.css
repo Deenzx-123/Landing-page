@@ -145,8 +145,8 @@ h2{
 h3, h4{
 
   font-size: 3rem;
-  margin-bottom: 4%
-}
+  margin: 4% 0;
+   }
 p, .calculation, li{
   font-size: 2.1rem;
 }
