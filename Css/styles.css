@@ -146,10 +146,13 @@ h3{
   font-size: 3rem;
 }
 p{
-  font-size: 1.5rem;
+  font-size: 2.5rem;
 }
 .calculation{
-  font-size: 1.5rem;
+  font-size: 2.5rem;
+}
+li{
+  font-size: 2.5rem;
 }
 
 /* kdp explaoin */
