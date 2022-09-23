@@ -12,7 +12,10 @@ body{
 span{
   color: green;
 }
-
+.btn_wsp{
+   background-color: #25D366;
+   
+}
 h1{
   font-family: "Montserrat";
   font-size: 3rem;
