@@ -142,23 +142,15 @@ h2{
   .head_btn{ width: 80%;
         height: 90px;
   }
-h3{
+h3, h4{
 
   font-size: 3rem;
   margin-bottom: 4%
 }
-h4{
-  font-size: 3rem;
+p, .calculation, li{
+  font-size: 2.1rem;
 }
-p{
-  font-size: 2.5rem;
-}
-.calculation{
-  font-size: 2.5rem;
-}
-li{
-  font-size: 2.5rem;
-}
+
 
 /* kdp explaoin */
 
