@@ -86,7 +86,7 @@ float: right;
 margin-right: 30px;
 }
 .images_row{
-  background-color: black;
+  background-color: #1b222c;
   padding: 7% 15%;
   text-align: center;
 }
@@ -146,7 +146,7 @@ h3, h4{
 
   font-size: 3rem;
   margin: 4% 0;
-   }
+}
 p, .calculation, li{
   font-size: 2.1rem;
 }
