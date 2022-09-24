@@ -154,9 +154,12 @@ h2{
   font-size: 2.5rem}
 
   .head_btn, .btn_pay, .btn_wsp{
-         text-align: center;
-         width: 50%;
-        height: 60px;
+
+         /* width: 60%; */
+        height: 70px;
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
   }
 h3, h4{
 
